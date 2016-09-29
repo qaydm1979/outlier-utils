@@ -1,8 +1,9 @@
 """ Utilities for detecting outliers
-
+check something
 These functions take a vector of values, and return a boolean vector of the
 same length as the input, where True indicates the corresponding value is an
 outlier.
+The outlier function routines will likely be adapted to the spcific that is being worked on.
 """
 
 # Python 2 compatibility
